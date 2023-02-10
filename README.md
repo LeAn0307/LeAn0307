@@ -1,16 +1,16 @@
 ### Hi there 👋
+- 😄 I'm An
+- 🔭 This is my github
+- 🌱 I am a student at University of Information Technology, Vietnam National University, Ho Chi Minh City
+- ⚡ Language: Java, JS, TS
+- 👯 Framework: Angular, Spring boot, thymleaf
+- 📫 Database: Oracle, SQL
+- 🔭 OOP, Data structures and algorithms
 
-<!--
-**LeAn0307/LeAn0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Contact me:
+- 💬Facebook: https://www.facebook.com/profile.php?id=100009200821224
+- ✨Linkedin: https://www.linkedin.com/in/an-le-034b0820b/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
