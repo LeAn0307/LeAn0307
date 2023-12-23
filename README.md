@@ -10,7 +10,6 @@
 
 ### Contact me:
 - 💬Facebook: https://www.facebook.com/profile.php?id=100009200821224
-- ✨Linkedin: https://www.linkedin.com/in/an-le-034b0820b/
-
+- ✨Linkedin: https://www.linkedin.com/in/an-le-thi-xuan-034b0820b/
 
 
